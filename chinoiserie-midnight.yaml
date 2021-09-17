@@ -1,18 +1,18 @@
 scheme: "Chinoiserie Midnight"
 author: "Di Wang (https://cs.cmu.edu/~diw3)"
-base00: "1d2021"
-base01: "3c3836"
-base02: "504945"
-base03: "665c54"
-base04: "bdae93"
-base05: "d5c4a1"
-base06: "ebdbb2"
-base07: "fbf1c7"
-base08: "ec2c64"
-base09: "fc8c23"
-base0A: "fcd337"
-base0B: "96c24e"
-base0C: "7cabb1"
-base0D: "93b5cf"
-base0E: "d276a3"
-base0F: "cd6227"
+base00: "1d1d1d"
+base01: "282828"
+base02: "373737"
+base03: "918072"
+base04: "bdaead"
+base05: "c4cbcf"
+base06: "eee7f2"
+base07: "fffef9"
+base08: "ed5a56" # red
+base09: "fc8c23" # orange
+base0A: "fbb957" # yellow
+base0B: "aeb831" # green
+base0C: "88b68d" # cyan
+base0D: "81a2a2" # blue
+base0E: "cf8997" # purple
+base0F: "cd6227" # brown
